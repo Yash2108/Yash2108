@@ -7,4 +7,4 @@ Aspiring to solve real problems using Artificial Intelligence.
 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#000000)](https://www.linkedin.com/in/yashjain2108/)
-[![Instagram](https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=LinkedIn&logoColor=#000000)](https://www.instagram.com/otakuforev//)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=#000000)](https://www.instagram.com/otakuforev//)
