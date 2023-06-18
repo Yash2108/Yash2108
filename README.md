@@ -48,8 +48,8 @@ Aspiring to solve real problems using Artificial Intelligence.
 
 
 # :medal_sports: Github Stats
-
-![](https://github-profile-trophy.vercel.app/?username=yash2108&theme=nord)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash2108&theme=radical&show_icons=true)
+![](https://github-profile-trophy.vercel.app/?username=yash2108&theme=radical)
 
 
 # :bust_in_silhouette: Visitor Count 
