@@ -48,7 +48,8 @@ Aspiring to solve real problems using Artificial Intelligence.
 
 
 # :medal_sports: Github Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash2108&theme=radical&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=yash2108&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2108&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=yash2108&theme=radical)
 
 
