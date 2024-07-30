@@ -10,8 +10,8 @@ Aspiring to solve real problems using Artificial Intelligence.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#000000)](https://www.linkedin.com/in/yashjain2108/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=#000000)](https://www.instagram.com/otakuforev/)
-[![Porfolio Website](https://img.shields.io/badge/Porfolio%20Website-green?style=for-the-badge&logo=html5&logoColor=#000000)](https://www.yash2108.github.io/)
-
+[![Porfolio Website](https://img.shields.io/badge/Porfolio%20Website-008F42?style=for-the-badge&logo=html5&logoColor=#000000)](https://www.yash2108.github.io/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashjain2108)
 
 # :desktop_computer: Tech Stack:
 
