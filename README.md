@@ -1,9 +1,7 @@
 # :point_right: About Me:
 
 
-Currently a Graduate Student at Stevens Institute of Technology pursuing a MS in Machine Learning.
-I'm interested in Machine Learning and its applications across multiple domains like, but not limited to, finance and health.
-Aspiring to solve real problems using Artificial Intelligence.
+Recent graduate from Stevens Institute of Technology with an MS in Machine Learning. I am passionate about leveraging machine learning and artificial intelligence to solve real-world problems across various domains, including finance, healthcare, and beyond. Eager to contribute to impactful innovations using AI-driven solutions
 
 # :globe_with_meridians: Socials:
 
